@@ -1,5 +1,5 @@
 var balls = [];
-var n = 10;
+var n = 50;
 
 function setup() {
     createCanvas(window.innerWidth, window.innerHeight);
